@@ -6,6 +6,6 @@ namespace ZoologyTask
 {
     interface IDomestication
     {
-        public void Use();
+        void Use();
     }
 }
