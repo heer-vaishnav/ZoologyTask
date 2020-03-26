@@ -6,7 +6,7 @@ namespace ZoologyTask
 {
     interface IReproduction
     {
-        public void Interval();
-        public void Weight();
+        void Interval();
+        void Weight();
     }
 }
