@@ -6,6 +6,6 @@ namespace ZoologyTask
 {
     interface IDiet
     {
-        public void Herbivores();
+        void Herbivores();
     }
 }
