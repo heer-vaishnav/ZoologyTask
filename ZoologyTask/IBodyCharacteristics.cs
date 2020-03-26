@@ -6,16 +6,16 @@ namespace ZoologyTask
 {
     interface IBodyCharacteristics
     {
-        public void Trunk();
+        void Trunk();
 
-        public void Tusk();
+        void Tusk();
 
-        public void Teeth();
+        void Teeth();
 
-        public void Skin();
+        void Skin();
 
-        public void Legs();
+        void Legs();
 
-        public void Ears();
+        void Ears();
     }
 }
