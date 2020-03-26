@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ZoologyTask
 {
-    public interface ISpecies
+    interface ISpecies
     {
-        public void African();
-        public void Asian();
+        void African();
+        void Asian();
     }
 }
